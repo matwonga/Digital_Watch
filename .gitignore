@@ -1,0 +1,5 @@
+.pytest_cache
+*.vcd
+__pycache__
+a.out
+*.xml
